@@ -1,2 +1,1 @@
-# lyrainteractiveimagemap
-Lyra interactive image map
+Interactive image map
